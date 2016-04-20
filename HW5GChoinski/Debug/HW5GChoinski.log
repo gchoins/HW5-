@@ -1,0 +1,6 @@
+﻿  HW5GC.cpp
+g:\loyola\hw5gchoinski\hw5gchoinski\hw5gc.cpp(91): warning C4018: '<': signed/unsigned mismatch
+g:\loyola\hw5gchoinski\hw5gchoinski\hw5gc.cpp(93): warning C4018: '<': signed/unsigned mismatch
+g:\loyola\hw5gchoinski\hw5gchoinski\hw5gc.cpp(110): warning C4018: '<': signed/unsigned mismatch
+g:\loyola\hw5gchoinski\hw5gchoinski\hw5gc.cpp(179): warning C4018: '<': signed/unsigned mismatch
+  HW5GChoinski.vcxproj -> G:\Loyola\HW5GChoinski\Debug\HW5GChoinski.exe
